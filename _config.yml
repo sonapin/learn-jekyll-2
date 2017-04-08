@@ -30,5 +30,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - mock/*
-
 theme: jekyll-theme-merlot
