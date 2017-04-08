@@ -7,7 +7,7 @@ tags:
     - Bush
 ---
 
-## Kdo je Vannevar Bush
+# Kdo je Vannevar Bush
 
 Vannevar Bush (11. března 1890 Everett, Massachusetts – 28. června 1974 Belmont, Massachusetts) byl americký vědec, státní úředník, vizionář a profesor elektronického inženýrství.
 
