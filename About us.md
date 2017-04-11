@@ -10,8 +10,8 @@ v naší společnosti málo informací, které by mohly jistě zajímat i širok
 Nejprve bychom chtěli uvést několik webových zdrojů zabývající se touto tématikou:
 - [Innovation, Pragmaticism, and Technological Continuity: Vannevar Bush's Memex](http://eds.a.ebscohost.com/eds/pdfviewer/pdfviewer?sid=28dae9b9-4555-4af3-a686-cc2afc482b85%40sessionmgr4008&vid=2&hid=4102)
 - [Článek Vannevar Bush: Ten, kdo viděl budoucnost počítačů] (http://www.zive.cz/clanky/vannevar-bush-ten-kdo-videl-budoucnost-pocitacu/sc-3-a-177221/default.aspx)
-- [Bush, Vannevar](http://www.encyclopedia.com/people/science-and-technology/electrical-engineering-biographies/vannevar-bush)
-- [As We May Think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
+- [Bush, Vannevar] (http://www.encyclopedia.com/people/science-and-technology/electrical-engineering-biographies/vannevar-bush)
+- [As We May Think] (https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
 - [The Contributions of Vannevar Bush to Analog Computing, Information Retrieval, and the Concept of Hypertext] (https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/) 
 
 A pro milovníky knih nabízíme i několik knižních zdrojů:
@@ -23,10 +23,10 @@ A pro milovníky knih nabízíme i několik knižních zdrojů:
 
 Také jsme narazily i na další audio, vizuální, i audiovizuální zdroje:
 - [Memex animation - Vannevar Bush's diagrams made real] (https://www.youtube.com/watch?v=c539cK58ees)
-- [V. Bush v časopise TIME](http://history-computer.com/Internet/images/BushAtWork.jpg)
+- [V. Bush v časopise TIME] (http://history-computer.com/Internet/images/BushAtWork.jpg)
 - [Vannevar Bush in One Minute] (https://www.youtube.com/watch?v=vUwe8ks7iao)
-- [Linking Minds Part One] https://www.youtube.com/watch?v=UHGF_BQi1PM)
-- [Fotografie](https://astrobites.org/wp-content/uploads/2014/01/vbush.jpg)
+- [Linking Minds Part One] (https://www.youtube.com/watch?v=UHGF_BQi1PM)
+- [Fotografie] (https://astrobites.org/wp-content/uploads/2014/01/vbush.jpg)
 
 Budoucí vzhled webu:
 - modré pozadí
