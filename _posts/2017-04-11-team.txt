@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Team"
+date:   2017-04-11 19:09:48 +0100
+tags: 
+    - Team
+---
+
+# Kdo jsme
+Jsme tři mladé studentky (Martina H., Veronika L. a Kateřina T.), které studují obor Informační studia a knihovnictví. 
+Rády bychom rozšířily povědomí o osobnosti Vannevara Bushe, protože si myslíme, že je to velmi důležitý vědec v našem oboru.
