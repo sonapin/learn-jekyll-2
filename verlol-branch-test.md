@@ -1,0 +1,1 @@
+Tak to jdem zkusit no.
