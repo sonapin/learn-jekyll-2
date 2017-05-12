@@ -61,5 +61,4 @@ Zveřejňování informací:
 
   ga('create', 'UA-98617765-1', 'auto');
   ga('send', 'pageview');
-
 </script>
