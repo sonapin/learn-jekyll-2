@@ -1,3 +1,8 @@
+body {
+
+  background: url('https://cdn.pixabay.com/photo/2014/07/09/09/19/digital-388075_960_720.jpg')
+
+}
 .wrapper {
 	margin: 50px auto;
 	max-width: 800px;
